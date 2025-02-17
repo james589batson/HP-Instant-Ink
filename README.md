@@ -1,7 +1,7 @@
 # HP Instant Ink
 
 ## Description
-HP Instant Ink is a subscription service that automatically delivers ink or toner to your doorstep before you run out. This service ensures that you never have to worry about running out of ink or toner and offers significant cost savings. The HP Instant Ink service is compatible with most HP printers and offers several subscription plans based on your printing needs. Whether you're a home user or a business, HP Instant Ink provides a convenient and cost-effective solution for your printing needs.
+<a href="https://www-hpinstantink.com">HP Instant Ink</a> is a subscription service that automatically delivers ink or toner to your doorstep before you run out. This service ensures that you never have to worry about running out of ink or toner and offers significant cost savings. The HP Instant Ink service is compatible with most HP printers and offers several subscription plans based on your printing needs. Whether you're a home user or a business, HP Instant Ink provides a convenient and cost-effective solution for your printing needs.
 
 ## Features
 - Automatic ink or toner delivery.
